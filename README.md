@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmrober
 - 👀 I’m interested in sport, code, math
-- 🌱 I’m currently learning data science, pbiviz
+- 🌱 I’m currently learning some science stuff, pbiviz
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... please don't :)
 
